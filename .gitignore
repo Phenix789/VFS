@@ -16,3 +16,10 @@
 *.exe
 *.out
 *.app
+
+# NetBeans dir
+nbproject
+
+# Kernel module file
+*.cmd
+*mod.c
